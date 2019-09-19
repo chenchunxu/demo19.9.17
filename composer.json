@@ -1,0 +1,12 @@
+{
+    "name": "chenchunxu/demo19.9.18",
+    "description": "test",
+    "authors": [
+        {
+            "name": "chenchunxu",
+            "email": "554652594@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
